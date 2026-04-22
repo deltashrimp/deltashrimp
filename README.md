@@ -8,10 +8,4 @@ Current_Task > Research on rocket fuel types<br>I_Love > Good tacos<br>I_Hate > 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deltashrimp&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=deltashrimp&icon=5&color=3)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) That's cool, not gonna lie -->
